@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dizertate</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="facebook_app_id">164786364456677</string>
+    <string name="fb_login_protocol_scheme">fb164786364456677</string>
+
+    <string name="log_out">Log Out</string>
+    <string name="sign_in_using">Sign In Using</string>
+    <string name="or">Or</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <string name="click_here">Click Here</string>
+    <string name="login">Login</string>
+    <string name="facebook">FaceBook</string>
+    <string name="name">Name</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="create">Create</string>
+    <string name="verify_your_email">Verify your email</string>
+    <string name="open_email">Open Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset">Reset</string>
+    <string name="enter_your_email">Enter your email :</string>
+
+</resources>
